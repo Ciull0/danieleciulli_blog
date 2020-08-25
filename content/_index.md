@@ -11,12 +11,14 @@ sections:
   actions: []
 - type: section_content
   template: section_content
-  title: About
+  title: Qualcosa su di Me
   section_id: about
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: "Ciao, sono Daniele Ciulli e mi piace fare foto. Questo sito è nato, un
+    pò per scherzo, un pò per scherno, in una noiosa domenica pomeriggio piovosa.
+    \n\nDetto questo, questo sito è principalmente una galleria fotografica, ma lo
+    userò anche per auto-promozione e come curriculum digitale. \n\nSe ve lo doveste
+    chiedere, ho inserito una pagina Contatti nel caso vorreste qualche foto, vorreste
+    un sito simile a questo, oppure magari vogliate solo fare due chiacchiere."
   actions:
   - type: action
     template: action
