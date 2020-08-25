@@ -30,13 +30,13 @@ sections:
   image: ''
 - type: section_posts
   template: section_posts
-  title: Recent Posts
+  title: Post Recenti
   section_id: recent-posts
   posts_number: 4
   actions:
   - type: action
     template: action
-    label: View Blog
+    label: Dai una occhiata al Blog
     url: blog/index.html
     style: button
     icon_class: ''
