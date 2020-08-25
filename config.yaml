@@ -9,7 +9,7 @@ params:
     type: header
     template: header
     title: Daniele Ciulli
-    tagline: Blog di Daniele Ciulli
+    tagline: Il Mio Sito Web
     profile_img: "/images/logo.png"
     background: dark
     has_nav: true
@@ -21,22 +21,22 @@ params:
       style: link
     - type: action
       template: action
-      label: Blog
+      label: Fotografia
       url: "/blog/"
       style: link
     - type: action
       template: action
-      label: Style Guide
-      url: "/style-guide/"
+      label: Curriculum
+      url: "/thank-you/"
       style: link
     - type: action
       template: action
-      label: About
+      label: Su Di Me
       url: "/about/"
       style: link
     - type: action
       template: action
-      label: Contact
+      label: Contatti
       url: "/contact/"
       style: link
     has_social: true
@@ -79,14 +79,8 @@ params:
   footer:
     type: footer
     template: footer
-    content: "&copy; All rights reserved."
-    links:
-    - type: action
-      template: action
-      label: Made with Stackbit.
-      url: https://www.stackbit.com
-      style: link
-      new_window: true
+    content: Vuoi un Sito come questo? Contattami!
+    links: []
 taxonomies:
   stub: stub
 disableKinds:
