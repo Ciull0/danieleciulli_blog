@@ -27,7 +27,7 @@ params:
     - type: action
       template: action
       label: Curriculum
-      url: "/curriculum"
+      url: "/curriculum-vitae"
       style: link
     - type: action
       template: action
