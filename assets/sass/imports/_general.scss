@@ -334,7 +334,7 @@ input[type="reset"],
   border: 2px solid _palette(accent);
   border-radius: 30px;
   box-sizing: border-box;
-  color: #fff;
+  color: _palette(primary);
   display: inline-block;
   font-size: 14px;
   letter-spacing: 0.075em;
@@ -352,7 +352,7 @@ input[type="reset"],
     background: transparent;
     border-color: _palette(accent);
     box-shadow: 0 0 1px 0.5em rgba(_palette(accent),.2);
-    color: _palette(secondary);
+    color: _palette(primary);
     outline: 0;
   }
 }
