@@ -4,7 +4,7 @@ hide_title: false
 sections:
 - template: section_content
   type: section_content
-  title: Dove Puoi Trovarmi
+  title: ''
   section_id: contatti
   image: "/images/facebook_cover_photo_1.png"
   actions: []
