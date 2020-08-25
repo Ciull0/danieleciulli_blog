@@ -27,7 +27,7 @@ params:
     - type: action
       template: action
       label: Curriculum
-      url: "/thank-you/"
+      url: "/curriculum"
       style: link
     - type: action
       template: action
