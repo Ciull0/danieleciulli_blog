@@ -54,7 +54,7 @@ sections:
     options: []
     is_required: false
   submit_label: Invia
-  title: Contatti
+  title: ''
 layout: advanced
 excerpt: ''
 
