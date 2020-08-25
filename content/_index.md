@@ -42,6 +42,6 @@ sections:
     icon_class: ''
     new_window: false
 layout: advanced
-excerpt: ''
+excerpt: Sito Web Di Daniele Ciulli, Web Developer e Fotografo
 
 ---
