@@ -76,17 +76,6 @@ params:
       style: icon
       icon_class: fa-dev
       new_window: true
-  footer:
-    type: footer
-    template: footer
-    content: "&copy; All rights reserved."
-    links:
-    - type: action
-      template: action
-      label: Made with Stackbit.
-      url: https://www.stackbit.com
-      style: link
-      new_window: true
 taxonomies:
   stub: stub
 disableKinds:
