@@ -1,16 +1,15 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+title: Qualcosa su di Me
+subtitle: Qualche riga su di me, su cosa faccio e su cosa mi piace
+img_path: "/images/profilo.JPG"
 layout: page
+excerpt: ''
+
 ---
+Ciao, mi chiamo **Daniele Ciulli.**
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Ho creato questo sito per vedere di cosa fossi capace nello sviluppo di siti web, oltre che per avere una pagina online di cui abbia il pieno controllo, per pubblicare qualche foto che amo scattare nel tempo libero. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Parlando del sito, è un sito statico, che ho modificato partendo da un template di Stackbit. Le modifiche principali che ho fatto, fino ad ora, sono nel template dei colori, tramite CSS. Ho inoltre scritto tutti i contenuti del sito, ma tramite il CMS, Forestry. Sempre tramite il CMS ho modificato la struttura del sito, per renderlo più semplice e fruibile, eliminando diverse sezioni e modificandone altre.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+Quanto a me, che posso dirvi? Sono da sempre appassionato di tecnologia, polica, musica indie e fotografia. 
