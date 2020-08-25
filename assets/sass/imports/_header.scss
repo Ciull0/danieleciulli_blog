@@ -2,7 +2,7 @@
  * Site Header
  */
 .site-header {
-  background: #fff;
+  background: rgb(44, 40, 40);
   border-bottom: 1px solid _palette(border);
   color: _palette(primary);
 }
@@ -84,7 +84,7 @@
 }
 
 .site-navigation {
-  background: #fff;
+  background: rgb(44, 40, 40);
   bottom: 0;
   box-sizing: border-box;
   -webkit-overflow-scrolling: touch;
@@ -194,7 +194,7 @@
         background: _palette(accent);
         border-color: _palette(accent);
         box-shadow: 0 0 1px 5px rgba(_palette(accent),.2);
-        color: #fff;
+        color: rgb(0, 0, 0);
       }
     }
   }
@@ -210,7 +210,7 @@
   }
 
   .site-title {
-    color: #fff;
+    color: rgb(0, 0, 0);
   }
 
   .menu-item {

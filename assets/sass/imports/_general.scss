@@ -227,9 +227,8 @@ input[type="search"],
 input[type="url"],
 select,
 textarea {
-  background: _palette(bg);
-  border: 1px solid _palette(border);
-  border-radius: 5px;
+  background: #000000;
+  border-bottom: 3px solid _palette(primary);
   box-shadow: none;
   box-sizing: border-box;
   color: _palette(primary);
