@@ -13,16 +13,26 @@ title = "Strade di Firenze"
 
 ### _Fauna di Piazza Della Repubblica_
 
-![](/images/street_firenze_7.jpg "Suonatore")  
-![](/images/street_firenze_4.jpg "Portatore di Palloncini")  
+![](/images/street_firenze_7.jpg "Suonatore")
+
+  
+![](/images/street_firenze_4.jpg "Portatore di Palloncini")
+
+  
 ![](/images/street_firenze_6.jpg "Giostra")
 
 ### _Mercati Fiorentini_
 
   
-![](/images/street_firenze.jpg)![](/images/street_firenze_2.jpg)![](/images/street_firenze_5.jpg)
+![](/images/street_firenze.jpg)
+
+![](/images/street_firenze_2.jpg)
+
+![](/images/street_firenze_5.jpg)
 
 ### _Un Collega_
 
   
 ![](/images/street_firenze_3.jpg)
+
+#### **_Foto di Daniele Ciulli_**
