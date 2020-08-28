@@ -13,12 +13,14 @@ sections:
   template: section_content
   title: Qualcosa su di Me
   section_id: about
-  content: "Ciao, sono Daniele Ciulli e mi piace fare foto. Questo sito è nato, un
-    pò per scherzo, un pò per scherno, in una noiosa domenica pomeriggio piovosa.
-    \n\nDetto questo, questo sito è principalmente una galleria fotografica, ma lo
-    userò anche per auto-promozione e come curriculum digitale. \n\nSe ve lo doveste
-    chiedere, ho inserito una pagina Contatti nel caso vorreste qualche foto, vorreste
-    un sito simile a questo, oppure magari vogliate solo fare due chiacchiere."
+  content: |-
+    ![](/images/analog_pics_5.jpg)
+
+    Ciao, sono Daniele Ciulli e mi piace fare foto. Questo sito è nato, un pò per scherzo, un pò per scherno, in una noiosa domenica pomeriggio piovosa.
+
+    Detto questo, questo sito è principalmente una galleria fotografica, ma lo userò anche per auto-promozione e come curriculum digitale.
+
+    Se ve lo doveste chiedere, ho inserito una pagina Contatti nel caso vorreste qualche foto, vorreste un sito simile a questo, oppure magari vogliate solo fare due chiacchiere.
   actions:
   - type: action
     template: action
