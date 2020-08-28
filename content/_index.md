@@ -9,9 +9,9 @@ sections:
   content: |-
     Sono, o meglio sto cercando di diventare, uno Web Developer. Sto studiando per diventare Full Stack Developer, specializzato sopratutto nel Front End.
 
-    Ho fatto questo sito per esercitarmi nella programmazione, e ne ho approfittato per usarlo come mio piccolo portfolio fotografico e come pagina di presentazione online.
+    Ho fatto questo sito per esercitarmi nella programmazione, poi la cosa è degenerata nella creazione del mio piccolo portfolio fotografico, e pagina di presentazione online.
 
-    Appena ho un pò di tempo, infatti, amo andare a scattare fotografie, il mio genere preferito è lo Street Photografy.
+    Appena ho un pò di tempo, infatti, amo andare a scattare fotografie, il mio genere preferito è la Street Photografy.
 
     Poi sono appassionato anche di Tecnologia, e mi interessa sopratutto l'impatto che lascia nel mondo intorno a noi.
 
