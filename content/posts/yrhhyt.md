@@ -2,7 +2,6 @@
 canonical_url = "florence_strett"
 content_img_path = ""
 date = 2020-07-27T22:00:00Z
-draft = true
 excerpt = "vrevr"
 layout = "post"
 subtitle = ""
