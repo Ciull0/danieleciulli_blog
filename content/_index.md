@@ -27,7 +27,7 @@ sections:
     style: button
     icon_class: ''
     new_window: false
-  image: ''
+  image: "/images/analog_pics_5.jpg"
 layout: advanced
 excerpt: Sito Web Di Daniele Ciulli, Web Developer e Fotografo
 
