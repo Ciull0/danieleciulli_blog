@@ -19,14 +19,10 @@ sections:
   actions: []
 - type: section_content
   template: section_content
-  title: Qualcosa su di Me
+  title: Parlando di Questo Sito
   section_id: about
   content: |-
-    ![](/images/whatsapp-image-2020-08-28-at-19-47-52.jpeg)
-
-    #### Parlando del sito:
-
-    > Ho realizzato un sito statico, modificando un template di Stackbit. Il sito è responsive e ottimizzato per la stampa
+    > Ho realizzato un sito statico, modificando un template di Stackbit. Il sito è responsive e ottimizzato per la stampa.
     >
     > Il sito è **completamente open-source**, hostato da Netilify, che si appoggia a un [Repository di GitHub](https://github.com/Ciull0/danieleciulli_blog "Codice Sorgente"). Inoltre è generato da Hugo.
     >
