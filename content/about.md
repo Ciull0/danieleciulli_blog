@@ -3,7 +3,7 @@ title: Qualcosa su di Me
 subtitle: Qualche riga su di me, su cosa faccio e su cosa mi piace
 img_path: "/images/profilo.JPG"
 layout: page
-excerpt: ''
+excerpt: Qualche riga su di me, su cosa faccio e su cosa mi piace
 
 ---
 Ciao, mi chiamo **Daniele Ciulli.**

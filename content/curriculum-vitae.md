@@ -1,10 +1,12 @@
 +++
-draft = true
-excerpt = ""
-img_path = "/images/profilo.JPG"
-layout = "page"
+canonical_url = "/curriculum"
+content_img_path = "/images/profilo.JPG"
+date = 2020-08-24T22:00:00Z
+excerpt = "Curriculum Vitae di Daniele Ciulli"
+layout = "post"
 subtitle = ""
-title = "Curriculum"
+thumb_img_path = "/images/profilo.JPG"
+title = "Curriculum Vitae"
 
 +++
 ##### Telefono: +39 331-3095219
@@ -13,7 +15,7 @@ title = "Curriculum"
 
 ### Qualcosa su di Me
 
-Sono un ragazzo molto curioso, determinato e che adora provare cose nuove. Adoro mettermi alla prova, e imparare cose nuove nel farlo. 
+Sono un ragazzo molto curioso, determinato e che adora provare cose nuove. Adoro mettermi alla prova, e imparare cose nuove nel farlo.
 
 La mia ambizione, nel medio termine, sarebbe diventare un buon Web Developer Full-Stack, prediligendo l'aspetto Front-End.
 

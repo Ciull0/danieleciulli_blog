@@ -28,20 +28,7 @@ sections:
     icon_class: ''
     new_window: false
   image: ''
-- type: section_posts
-  template: section_posts
-  title: Post Recenti
-  section_id: recent-posts
-  posts_number: 4
-  actions:
-  - type: action
-    template: action
-    label: Dai una occhiata al Blog
-    url: blog/index.html
-    style: button
-    icon_class: ''
-    new_window: false
 layout: advanced
-excerpt: ''
+excerpt: Sito Web Di Daniele Ciulli, Web Developer e Fotografo
 
 ---

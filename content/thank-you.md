@@ -4,6 +4,7 @@ img_path: "/images/profilo.JPG"
 layout: page
 subtitle: ''
 excerpt: ''
+draft: true
 
 ---
 ##### Telefono: +39 331-3095219

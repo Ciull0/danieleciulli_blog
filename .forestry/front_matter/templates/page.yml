@@ -29,6 +29,5 @@ fields:
     required: true
 pages:
 - content/about.md
-- content/curriculum.md
 - content/style-guide.md
 - content/thank-you.md
