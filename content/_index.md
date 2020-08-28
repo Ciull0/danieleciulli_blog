@@ -6,8 +6,11 @@ sections:
   template: section_hero
   title: Ciao, Sono Daniele Ciulli
   section_id: hero
-  content: Ho fatto questo sito per esercitarmi nella programmazione web e per avere
-    un piccolo portfolio fotografico, poi la cosa è degenerata
+  content: "Ho fatto questo sito per esercitarmi nella programmazione web e per avere
+    un piccolo portfolio fotografico, poi la cosa è degenerata.\n\nAppena ho un pò
+    di tempo, amo andare a scattare fotografie, il mio genere preferito è lo Street
+    Photografy.\n\nPoi sono appassionato anche di Tecnologia, e mi interessa sopratutto
+    l'impatto che lascia nel mondo intorno a noi. "
   actions: []
 - type: section_content
   template: section_content
