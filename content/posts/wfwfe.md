@@ -11,16 +11,17 @@ title = "Fotografia Analogica"
 +++
 ### _Dream Team del 1950 American Diner_
 
-![](/images/analog_pics_4.jpg)![](/images/analog_pics_3.jpg)
+![](/images/analog_pics_4.jpg)
 
 ### _Ciao Emma sei su Internet_
 
-  
 ![](/images/analog_pics_2.jpg)
 
 ### _Compagni Di Sempre_
 
-![](/images/analog_pics_9.jpg)![](/images/analog_pics.jpg)
+![](/images/analog_pics_9.jpg)
+
+![](/images/analog_pics.jpg)
 
 ### _Palla di Neve_
 
