@@ -5,10 +5,12 @@ date = 2020-08-24T22:00:00Z
 excerpt = "Curriculum Vitae di Daniele Ciulli"
 layout = "post"
 subtitle = ""
-thumb_img_path = "/images/profilo.JPG"
+thumb_img_path = ""
 title = "Curriculum Vitae"
 
 +++
+![](/images/profilo.JPG)
+
 ##### Telefono: +39 331-3095219
 
 ##### Email: danieleciulli1997@gmail.com
