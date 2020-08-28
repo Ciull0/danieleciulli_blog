@@ -16,9 +16,12 @@ sections:
   template: section_content
   title: Qualcosa su di Me
   section_id: about
-  content: "![](/images/analog_pics_5.jpg)\n\nHo inserito una pagina Contatti nel
-    caso vorreste qualche foto, vorreste un sito simile a questo, oppure magari vogliate
-    solo fare due chiacchiere. \n\nNon Esitate a contattarmi!"
+  content: |-
+    ![](/images/whatsapp-image-2020-08-28-at-19-47-52.jpeg)
+
+    Ho inserito una pagina Contatti nel caso vorreste qualche foto, vorreste un sito simile a questo, oppure magari vogliate solo fare due chiacchiere.
+
+    Non Esitate a contattarmi!
   actions:
   - type: action
     template: action
