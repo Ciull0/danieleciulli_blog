@@ -42,6 +42,7 @@ fields:
     required: true
 pages:
 - content/curriculum-vitae.md
+- content/posts/carnevale-san-gimignano.md
 - content/posts/wefwef.md
 - content/posts/wfwfe.md
 - content/posts/wqefwe.md
