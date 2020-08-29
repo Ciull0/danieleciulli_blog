@@ -31,11 +31,6 @@ params:
       style: link
     - type: action
       template: action
-      label: Su Di Me
-      url: "/about/"
-      style: link
-    - type: action
-      template: action
       label: Contatti
       url: "/contact/"
       style: link

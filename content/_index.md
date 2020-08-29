@@ -6,28 +6,40 @@ sections:
   template: section_hero
   title: Ciao, Sono Daniele Ciulli
   section_id: hero
-  content: Ho fatto questo sito per esercitarmi nella programmazione web e per avere
-    un piccolo portfolio fotografico, poi la cosa è degenerata
+  content: |-
+    Sono, o meglio sto cercando di diventare, uno Web Developer. Sto studiando per diventare Full Stack Developer, specializzato sopratutto nel Front End.
+
+    Ho fatto questo sito per esercitarmi nella programmazione, poi la cosa è degenerata nella creazione del mio piccolo portfolio fotografico, e pagina di presentazione online.
+
+    Appena ho un pò di tempo, infatti, amo andare a scattare fotografie, il mio genere preferito è la Street Photografy.
+
+    Poi sono appassionato anche di Tecnologia, e mi interessa sopratutto l'impatto che lascia nel mondo intorno a noi.
+
+    ![](/images/whatsapp-image-2020-08-28-at-19-47-52.jpeg)
   actions: []
 - type: section_content
   template: section_content
-  title: Qualcosa su di Me
+  title: Parlando di Questo Sito
   section_id: about
   content: |-
-    ![](/images/analog_pics_5.jpg)
+    Ho realizzato un **sito statico**, modificando un template di _Stackbit_. Il sito è **responsive e ottimizzato per la stampa**.
 
-    Ciao, sono Daniele Ciulli e mi piace fare foto. Questo sito è nato, un pò per scherzo, un pò per scherno, in una noiosa domenica pomeriggio piovosa.
+    Il sito è **Completamente Open-Source**, hostato da _Netlify_, che si appoggia a un [_Repository di GitHub_](https://github.com/Ciull0/danieleciulli_blog "Codice Sorgente")_._ Inoltre è Generato da _Hugo_ e **Modificabile tramite il CMS** _Forestry_
 
-    Detto questo, questo sito è principalmente una galleria fotografica, ma lo userò anche per auto-promozione e come curriculum digitale.
+    Le modifiche principali che ho fatto, fino ad ora, sono la **Modifica del Template dei Colori** e l'**Ottimizzazione del Sito per la Stampa** per minimizzare il consumo di inchiostro, entrambi **tramite CSS**.
 
-    Se ve lo doveste chiedere, ho inserito una pagina Contatti nel caso vorreste qualche foto, vorreste un sito simile a questo, oppure magari vogliate solo fare due chiacchiere.
+    Ho inoltre scritto tutti i contenuti del sito, tramite il CMS. Sempre tramite il CMS ho modificato la struttura del sito, per **renderlo più semplice e fruibile**, eliminando diverse sezioni e modificandone altre.
+
+    ###### Ho inserito una pagina Contatti nel caso voleste qualche foto, voleste un sito simile a questo, oppure magari vogliate solo fare due chiacchiere.
+
+    ##### Non Esitate a contattarmi!
   actions:
   - type: action
     template: action
-    label: Contact Me
+    label: Contattami!
     url: "/contact"
     style: button
-    icon_class: ''
+    icon_class: fa-reply
     new_window: false
   image: ''
 layout: advanced
