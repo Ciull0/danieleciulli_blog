@@ -9,4 +9,12 @@ thumb_img_path = "/images/carnevale_sangimignano_2.jpg"
 title = "Carnevale San Gimignano"
 
 +++
-![](/images/carnevale_sangimignano.jpg)![](/images/carnevale_sangimignano_2.jpg)![](/images/carnevale_sangimignano_6.jpg)![](/images/carnevale_sangimignano_3.jpg)![](/images/carnevale_sangimignano_4.jpg)
+![](/images/carnevale_sangimignano.jpg)
+
+![](/images/carnevale_sangimignano_2.jpg)
+
+![](/images/carnevale_sangimignano_6.jpg)
+
+![](/images/carnevale_sangimignano_3.jpg)
+
+![](/images/carnevale_sangimignano_4.jpg)
